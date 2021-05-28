@@ -1,4 +1,4 @@
-# 2021年面经
+# 2021年面经（右上角赏个star谢谢）
 
 - [【05-18】😊 AF公司 `失败 🍀` `排位 👹`](https://github.com/buuing/Interview/issues/32)
 - [【05-14】😛 AE公司 `排位 👹` `胜利 🎉`](https://github.com/buuing/Interview/issues/31)
